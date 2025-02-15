@@ -1,4 +1,4 @@
-backend.env
+backend/.env
 
 frontend/notes-app/node_modules/
 backend/node_modules/
